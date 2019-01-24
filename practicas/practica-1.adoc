@@ -1,4 +1,4 @@
-= Practica:
+= Práctica:
 
 Para poder realizar las configuraciones deberá ingresar en una sesión screen, una vez dentro de la sesión inicie las actividades.
 
