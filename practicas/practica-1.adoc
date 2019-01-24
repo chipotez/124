@@ -1,11 +1,11 @@
 = Practica:
 
-Para poder realizar las configuraciones deberá ingresar en usa sesiós screen, una vez dentro de la sesión screen inicie las actividades.
+Para poder realizar las configuraciones deberá ingresar en una sesión screen, una vez dentro de la sesión inicie las actividades.
 
 Para realizar el login de screen ejecute lo siguiente en su terminal.
-
+----
 #screen -x examen
-
+----
 
 == Setup.
 
