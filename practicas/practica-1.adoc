@@ -1,7 +1,16 @@
 = Practica:
 
+Para poder realizar las configuraciones deberá ingresar en usa sesiós screen, una vez dentro de la sesión screen inicie las actividades.
+
+Para realizar el login de screen ejecute lo siguiente en su terminal.
+
+#screen -x examen
+
+
 == Setup.
- 
+
+* Configure el servicio ssh para permitir el login remoto.
+
 Configure el equipo con los siguiente valores.
 
 * Parámetros de Red.
