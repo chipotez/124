@@ -2,7 +2,14 @@
 
 == Setup.
  
-Configure el equipo con las siguientes características.
+Configure el equipo con los siguiente valores.
+
+* Parametros de Red.
+----
+Interfaz eth1
+Ip   192.168.122.10
+Mask 255.255.255.0
+----
 
 * Nombre estético (alto nivel) :
 ----
@@ -23,6 +30,7 @@ Configure el equipo con las siguientes características.
 "America/Mexico_City"
 ----
 * NTP Deshabilitado.
+
 
 == Usuarios, Grupos y Contraseñas.
 
